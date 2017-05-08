@@ -6,7 +6,7 @@ package midTermPackageA;
 //          1 static method (10 points)
 //     a. Requirements: Static method must be called from default method
 
-public interface InterfaceOuting {
+interface InterfaceOuting {
     abstract String movingActivity();
     abstract String climbingActivity();
 
